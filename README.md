@@ -1,8 +1,22 @@
 
 # Hi there, I'm Zufar! 👋
 
-### 👨‍💻 Backend & Full-Stack Developer
+### 👨‍💻 Software Developer
 I am an Undergraduate Computer Science student at **Universitas Indonesia** with a strong passion for building scalable backend systems and seamless mobile/web applications. I enjoy solving complex problems using **Java (Spring Boot)** and **Python (Django)**.
+
+---
+
+### 🌐 Relevant Coursework & Skills
+
+- **Relevant Coursework:** Computer Network, Software Engineering, Advanced Programming, Data Structure & Algorithm, Databases, Operating System, Software Security.
+- **Engineering Practices:** Test-Driven Development (TDD), Software Architecture, CI/CD
+
+---
+
+### 🚀 Projects Highlight
+
+- **Udehnih Web:** Scalable REST API with Spring Boot & Docker on AWS.
+- **Souvenir-Kita:** Full-stack e-commerce with Django & Flutter.
 
 ---
 
@@ -18,26 +32,6 @@ I am an Undergraduate Computer Science student at **Universitas Indonesia** with
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=zufarra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Zufar's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zufarra&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
-  </p>
-</div>
-
----
-
-### 🚀 Projects Highlight
-
-- **Udehnih Web:** Scalable REST API with Spring Boot & Docker on AWS.
-- **Souvenir-Kita:** Full-stack e-commerce with Django & Flutter.
-
----
 
 ### 📫 Connect with Me
 
