@@ -43,11 +43,3 @@ An Undergraduate Computer Science student at **Universitas Indonesia** with a st
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://github.com/zufarra/zufarra/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
