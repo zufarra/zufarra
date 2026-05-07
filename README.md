@@ -1,6 +1,6 @@
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hi+there,+I'm+Zufar!+%F0%9F%91%8B;Backend+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Software+Engineer+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hi+there,+I'm+Zufar!+%F0%9F%91%8B;Software+Engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Software+Engineer+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 An Undergraduate Computer Science student at **Universitas Indonesia** with a strong passion for building scalable backend systems and seamless mobile/web applications. I enjoy solving complex problems using **Java (Spring Boot)** and **Python (Django)**.
 
